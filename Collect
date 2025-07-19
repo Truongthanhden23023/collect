@@ -1,0 +1,130 @@
+local args = {
+	"KidzBop2025",
+	"1"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Services"):WaitForChild("CollectibleServiceRemotes"):WaitForChild("Collect"):InvokeServer(unpack(args))
+local args = {
+	"KidzBop2025",
+	"10"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Services"):WaitForChild("CollectibleServiceRemotes"):WaitForChild("Collect"):InvokeServer(unpack(args))
+local args = {
+	"KidzBop2025",
+	"11"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Services"):WaitForChild("CollectibleServiceRemotes"):WaitForChild("Collect"):InvokeServer(unpack(args))
+local args = {
+	"KidzBop2025",
+	"12"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Services"):WaitForChild("CollectibleServiceRemotes"):WaitForChild("Collect"):InvokeServer(unpack(args))
+local args = {
+	"KidzBop2025",
+	"13"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Services"):WaitForChild("CollectibleServiceRemotes"):WaitForChild("Collect"):InvokeServer(unpack(args))
+local args = {
+	"KidzBop2025",
+	"14"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Services"):WaitForChild("CollectibleServiceRemotes"):WaitForChild("Collect"):InvokeServer(unpack(args))
+local args = {
+	"KidzBop2025",
+	"15"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Services"):WaitForChild("CollectibleServiceRemotes"):WaitForChild("Collect"):InvokeServer(unpack(args))
+local args = {
+	"KidzBop2025",
+	"16"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Services"):WaitForChild("CollectibleServiceRemotes"):WaitForChild("Collect"):InvokeServer(unpack(args))
+local args = {
+	"KidzBop2025",
+	"17"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Services"):WaitForChild("CollectibleServiceRemotes"):WaitForChild("Collect"):InvokeServer(unpack(args))
+local args = {
+	"KidzBop2025",
+	"18"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Services"):WaitForChild("CollectibleServiceRemotes"):WaitForChild("Collect"):InvokeServer(unpack(args))
+local args = {
+	"KidzBop2025",
+	"19"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Services"):WaitForChild("CollectibleServiceRemotes"):WaitForChild("Collect"):InvokeServer(unpack(args))
+local args = {
+	"KidzBop2025",
+	"2"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Services"):WaitForChild("CollectibleServiceRemotes"):WaitForChild("Collect"):InvokeServer(unpack(args))
+local args = {
+	"KidzBop2025",
+	"20"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Services"):WaitForChild("CollectibleServiceRemotes"):WaitForChild("Collect"):InvokeServer(unpack(args))
+local args = {
+	"KidzBop2025",
+	"21"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Services"):WaitForChild("CollectibleServiceRemotes"):WaitForChild("Collect"):InvokeServer(unpack(args))
+local args = {
+	"KidzBop2025",
+	"22"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Services"):WaitForChild("CollectibleServiceRemotes"):WaitForChild("Collect"):InvokeServer(unpack(args))
+local args = {
+	"KidzBop2025",
+	"23"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Services"):WaitForChild("CollectibleServiceRemotes"):WaitForChild("Collect"):InvokeServer(unpack(args))
+local args = {
+	"KidzBop2025",
+	"24"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Services"):WaitForChild("CollectibleServiceRemotes"):WaitForChild("Collect"):InvokeServer(unpack(args))
+local args = {
+	"KidzBop2025",
+	"25"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Services"):WaitForChild("CollectibleServiceRemotes"):WaitForChild("Collect"):InvokeServer(unpack(args))
+local args = {
+	"KidzBop2025",
+	"26"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Services"):WaitForChild("CollectibleServiceRemotes"):WaitForChild("Collect"):InvokeServer(unpack(args))
+local args = {
+	"KidzBop2025",
+	"3"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Services"):WaitForChild("CollectibleServiceRemotes"):WaitForChild("Collect"):InvokeServer(unpack(args))
+local args = {
+	"KidzBop2025",
+	"4"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Services"):WaitForChild("CollectibleServiceRemotes"):WaitForChild("Collect"):InvokeServer(unpack(args))
+local args = {
+	"KidzBop2025",
+	"5"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Services"):WaitForChild("CollectibleServiceRemotes"):WaitForChild("Collect"):InvokeServer(unpack(args))
+local args = {
+	"KidzBop2025",
+	"6"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Services"):WaitForChild("CollectibleServiceRemotes"):WaitForChild("Collect"):InvokeServer(unpack(args))
+local args = {
+	"KidzBop2025",
+	"7"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Services"):WaitForChild("CollectibleServiceRemotes"):WaitForChild("Collect"):InvokeServer(unpack(args))
+local args = {
+	"KidzBop2025",
+	"8"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Services"):WaitForChild("CollectibleServiceRemotes"):WaitForChild("Collect"):InvokeServer(unpack(args))
+local args = {
+	"KidzBop2025",
+	"9"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Services"):WaitForChild("CollectibleServiceRemotes"):WaitForChild("Collect"):InvokeServer(unpack(args))
